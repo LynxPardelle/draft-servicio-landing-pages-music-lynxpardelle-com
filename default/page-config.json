@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-landing-pages.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Landing pages para lanzamientos musicales | Lynx Pardelle",
+    "description": "Dale a tu sencillo, álbum, show o campaña una página propia. Reúne la portada, la información y un botón para escuchar, comprar boletos o ponerse en contacto contigo.",
+    "canonical": "https://servicio-landing-pages.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-web.webp"
+    }
+  }
+}
